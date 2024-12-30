@@ -67,4 +67,4 @@ client.once('ready', () => __awaiter(void 0, void 0, void 0, function* () {
     console.log('Code by Wick Studio');
     console.log('discord.gg/wicks');
 }));
-client.login(TOKEN);
+client.login('MTMyMjUyNjQ4Nzg4MTk3NzkyOQ.GlkZDC.wHsQOcfZ34ydkUmUESEx0UE9Vr0TaaRh-R5lnI');
